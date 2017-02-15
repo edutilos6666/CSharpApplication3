@@ -13,3 +13,10 @@ c:\users\edutilos\documents\visual studio 2015\Projects\CSharpApplication3\CShar
 c:\users\edutilos\documents\visual studio 2015\Projects\CSharpApplication3\CSharpApplication3\obj\Debug\CSharpApplication3.PersonFindAllForm.resources
 c:\users\edutilos\documents\visual studio 2015\Projects\CSharpApplication3\CSharpApplication3\obj\Debug\CSharpApplication3.PersonUpdateForm.resources
 c:\users\edutilos\documents\visual studio 2015\Projects\CSharpApplication3\CSharpApplication3\obj\Debug\CSharpApplication3.PersonFindByIdForm.resources
+C:\Users\edutilos\Documents\Visual Studio 2015\Projects\CSharpApplication3\CSharpApplication3\bin\Debug\MongoDB.Bson.dll
+C:\Users\edutilos\Documents\Visual Studio 2015\Projects\CSharpApplication3\CSharpApplication3\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\edutilos\Documents\Visual Studio 2015\Projects\CSharpApplication3\CSharpApplication3\bin\Debug\MongoDB.Driver.dll
+C:\Users\edutilos\Documents\Visual Studio 2015\Projects\CSharpApplication3\CSharpApplication3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\edutilos\Documents\Visual Studio 2015\Projects\CSharpApplication3\CSharpApplication3\bin\Debug\MongoDB.Bson.xml
+C:\Users\edutilos\Documents\Visual Studio 2015\Projects\CSharpApplication3\CSharpApplication3\bin\Debug\MongoDB.Driver.xml
+C:\Users\edutilos\Documents\Visual Studio 2015\Projects\CSharpApplication3\CSharpApplication3\bin\Debug\MongoDB.Driver.Core.xml

@@ -16,8 +16,10 @@ namespace CSharpApplication3
 
             //TestPersonDAOConsole(); 
             // TestMysqlExample1(); 
-            Application.Run(new PersonDAOForm()); 
+            //Application.Run(new PersonDAOForm()); 
+            new MongoDBExample().RunMongoDBExample(); 
         }
+
 
 
         private static void TestMysqlExample1()
